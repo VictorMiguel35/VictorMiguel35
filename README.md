@@ -5,8 +5,8 @@
  - Pronomes: Ele/Dele
 <div align="center">
   <a href="https://github.com/VictorMiguel35">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorMiguel35&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMiguel35&layout=donut&langs_count=7&theme=nightowl"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VictorMiguel35&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMiguel35&layout=donut&langs_count=7&theme=nightowl"/>
 </div>
   
   <div style="display: inline_block"><br>
